@@ -14,7 +14,7 @@ for i in range(1, n+1):
     emp_details["department"] = department
     emp_details["salary"] = salary
     emp_details["experience_years"] = experience_years
-    emp_details["performance_score"] = performance_score
+    emp_details["performance_score"] = performance_score 
 
     emp_data[i] = emp_details
 
